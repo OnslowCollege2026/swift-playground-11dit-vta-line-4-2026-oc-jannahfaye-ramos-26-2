@@ -4,6 +4,10 @@
 @main
 struct SwiftPlayground {
     static func main() {
+    print("Welcome to Screen Time Tracker.")
+
+    let
+
         
         
     }
